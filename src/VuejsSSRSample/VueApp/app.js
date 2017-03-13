@@ -6,5 +6,5 @@ const app = new Vue({
     store, 
     ...App
 });
-
+//Comment 3/13/2017
 export { app, store };
